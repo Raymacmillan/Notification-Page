@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Raymacmillan/Notification-Page/settings/](https://github.com/Raymacmillan/Notification-Page/settings/)
+- Live Site URL: [https://notification-page-j963gxm8z-raymacmillan.vercel.app/](https://notification-page-j963gxm8z-raymacmillan.vercel.app/)
 
 ## My process
 
