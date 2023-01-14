@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+nav button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+
+    font-weight: bold;
+    color: hsl(219, 75%, 20%);
+
+    cursor: pointer;
+}
+
+nav h4 span {
+    color:  hsl(0, 0%, 100%);
+    background-color: hsl(219, 85%, 26%);
+
+    border-radius: 5px;
+
+    padding: 2px 10px;
+    margin-left: 6px;
+}
